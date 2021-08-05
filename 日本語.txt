@@ -1,4 +1,5 @@
 (It's pretty much just Google translated Japanese at the moment. Sorry!)
+（現時点では、Googleが日本語を翻訳しただけです。ごめんなさい！）
 #### イントロ ####
 司令官: 「最後に、さらにいくつかの援軍。」
 司令官: 「ここでお会いできてありがとう {player_name}.」
