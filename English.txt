@@ -18,7 +18,7 @@ Commander: "I'll meet you on the battlefield."
 #### In-game ####
 Takeshi's Castle Datapack reloaded.
 
-SURVIVORS
+{player_count} SURVIVORS
 
 Hiscores
 
