@@ -16,14 +16,95 @@ Commander: "I'll meet you on the battlefield."
 
 ==============================================================================
 #### In-game ####
+Takeshi's Castle Datapack reloaded.
+
 You have entered Takeshi's Castle Raid Challenge!
 
 Commander: "We'll launch a full-scale attack on Takeshi's impenetrable castle. It'll be tough to get through those obstacles, but do your best, all right? Alright. Now, CHARGE!!!"
 
 You waited too long and lost your grip!
 
+Commander: "Let us wait for our troops to gather before we continue."
+
+Commander: "Please wait while another army finishes their fight with Takeshi."
+
+Commander: "Excellent work! You guys survived."
+"Anyways, we're going to attack Takeshi's castle, alright?"
+"Go! Go! Go!"
+
+Commander: "Attack! Attack!"
+
+Takeshi: "You will have to face me now!!!"
+
+Assistant: "I will protect you lord!"
+
+Commander: "The rest of the enemy soldiers have retreated!"
+
+Commander: "You lost. That's okay, you tried your best."
+"Keep trying!"
+
+Commander: "We have taken the Castle! Quickly, go inside to finish our mission!"
+
+Takeshi's Castle has been defeated!
 
 ==============================================================================
 #### Ending ####
+
+{player_name} has defeated Takeshi's Castle!
+
+Takeshi: "Hey you! {player_name}!"
+
+Takeshi: "Congratulations!!!"
+
+Takeshi: "You have beat my challenge!"
+
+Takeshi: "You have "Beat Takeshi"!"
+
+Takeshi: "It only took you {fails_count} tries..."
+
+Takeshi: "You did pretty good! Only {fails_count} fails. Not bad!"
+
+Takeshi: "Wow! You only failed once! Well done, you are very skilled!"
+
+Takeshi: "S TIER PLAYER!!! You beat it in one go, 0 fails!!! You have truly mastered my challenge! You have worked hard, please take a rest now."
+
+(Best: {fails_count_hiscore} fails.)
+
+(Best: {fails_count_hiscore} -> {fails_count} fails.)
+
+(You still have the best possible score!)
+
+Takeshi: "At least no one got harmed, right?"
+
+Takeshi: "Ha ha ha!"
+
+Takeshi: "Anyways, I believe a reward is due."
+
+Takeshi: "Here is your prize, 1,000,000円!"
+
+Takeshi: "Here is your prize, 25,000,000円!"
+
+Takeshi: "Also, here, have this gold trophy. You've earned it!"
+
+Takeshi: "Also, here, have a replica of my head. You've definitely earned it!"
+
+Takeshi's Castle Trophy
+
+Congratulations on beating Takeshi's Castle!
+- Takeshi
+
+Takeshi's Head
+
+Takeshi: "It looks just like me, doesn't it?"
+
+Takeshi: "It looks nothing like me, right?"
+
+Takeshi: "You can leave now, I have other challengers to deal with. Okay?"
+
+Takeshi's Castle Minecraft Edition
+
+Made by uBiuui.
+
+Takeshi: "Really, you can go now. It's over, you won. Just go through the door."
 
 ==============================================================================
