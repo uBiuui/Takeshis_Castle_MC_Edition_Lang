@@ -76,7 +76,7 @@ Takeshi: "S TIER PLAYER!!! You beat it in one go, 0 fails!!! You have truly mast
 
 (Best: {fails_count_hiscore} fails.)
 
-(Best: {fails_count_hiscore} -> {fails_count} fails.)
+(Best: {fails_count_hiscore} -> {fails_count} fails!)
 
 (You still have the best possible score!)
 
