@@ -96,7 +96,8 @@ Takeshi: "Also, here, have a replica of my head. You've definitely earned it!"
 
 Takeshi's Castle Trophy
 
-Congratulations on beating Takeshi's Castle!
+"Congratulations on beating
+Takeshi's Castle!"
 - Takeshi
 
 Takeshi's Head
