@@ -26,6 +26,8 @@ You waited too long and lost your grip!
 
 Commander: "Let us wait for our troops to gather before we continue."
 
+Showdown starts in:
+
 Commander: "Please wait while another army finishes their fight with Takeshi."
 
 Commander: "Excellent work! You guys survived."
