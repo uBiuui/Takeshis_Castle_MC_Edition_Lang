@@ -34,6 +34,10 @@ Commander: "Excellent work! You guys survived."
 "Anyways, we're going to attack Takeshi's castle, alright?"
 "Go! Go! Go!"
 
+Blaster
+
+Blaster Ammo
+
 Commander: "Attack! Attack!"
 
 Takeshi: "You will have to face me now!!!"
