@@ -15,7 +15,22 @@ Commander: "Go join the other reinforcements and gear up for battle."
 Commander: "I'll meet you on the battlefield."
 
 ==============================================================================
-#### Status room ####
+#### Headquarters ####
+
+Warning:
+This challenge
+is hard!
+
+You will have a
+better chance
+of winning if you
+team up with
+
+other players
+to help beat it!
+Good luck!
+
+Recycle (Recycling bin)
 
 Total Wins:
 
