@@ -15,6 +15,20 @@ Commander: "Go join the other reinforcements and gear up for battle."
 Commander: "I'll meet you on the battlefield."
 
 ==============================================================================
+#### Status room ####
+
+総勝利数：
+
+失敗の総数：
+
+勝利あたりの
+平均失敗数：
+
+各ステージで行
+われた合計
+試行回数：
+
+==============================================================================
 #### In-game ####
 Takeshi's Castle Datapack reloaded.
 
