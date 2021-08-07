@@ -17,16 +17,16 @@ Commander: "I'll meet you on the battlefield."
 ==============================================================================
 #### Status room ####
 
-総勝利数：
+Total Wins:
 
-失敗の総数：
+Total Fails:
 
-勝利あたりの
-平均失敗数：
+Average Fails
+per Win:
 
-各ステージで行
-われた合計
-試行回数：
+Total attempts
+made on each
+stage:
 
 ==============================================================================
 #### In-game ####
