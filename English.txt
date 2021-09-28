@@ -51,8 +51,6 @@ Takeshi's Castle Datapack reloaded.
 
 Stats
 
-Best score: # fails
-
 Hiscores
 
 Wins
