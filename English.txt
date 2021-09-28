@@ -49,9 +49,17 @@ Takeshi's Castle Datapack reloaded.
 
 {player_count} SURVIVORS
 
+Stats
+
+Best score: # fails
+
 Hiscores
 
 Wins
+
+Fails
+
+n/a
 
 EXAMPLE
 
