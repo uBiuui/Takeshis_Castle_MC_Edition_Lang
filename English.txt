@@ -45,6 +45,9 @@ stage:
 
 ==============================================================================
 #### In-game ####
+The Great Wall, The First Fortress, Knock Knock, Rope Swing, Skipping Stones, The Devil's Domain, 
+The Second Fortress, Strait of Gibraltar, Man-Eating Hole, Showdown
+
 Takeshi's Castle Datapack reloaded.
 
 {player_count} SURVIVORS
