@@ -51,8 +51,6 @@
 
 統計
 
-Best score: # fails
-
 ヒスコア
 
 勝ち数
