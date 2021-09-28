@@ -51,6 +51,8 @@ Takeshi's Castle Datapack reloaded.
 
 Stats
 
+Current fails: #
+
 Hiscores
 
 Wins
@@ -58,6 +60,12 @@ Wins
 Fails
 
 n/a
+
+To get back:
+
+You are now spectating the game.
+
+You are no longer spectating the game.
 
 EXAMPLE
 
