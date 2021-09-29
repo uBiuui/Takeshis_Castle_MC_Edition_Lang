@@ -219,4 +219,22 @@ Always
 
 Always show them
 
+Sometimes
+
+Show when player count is low
+
+Never
+
+Never show them
+
+Allow players to spectate?
+
+Yes
+
+Allow spectators
+
+No
+
+Don't allow spectators
+
 ==============================================================================
