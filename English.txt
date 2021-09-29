@@ -52,23 +52,11 @@ Takeshi's Castle Datapack reloaded.
 
 {player_count} SURVIVORS
 
-Stats
-
-Current fails: #
-
 Hiscores
 
 Wins
 
 Fails
-
-n/a
-
-To get back:
-
-You are now spectating the game.
-
-You are no longer spectating the game.
 
 EXAMPLE
 
@@ -177,5 +165,28 @@ Takeshi's Castle Minecraft Edition
 Made by uBiuui.
 
 Takeshi: "Really, you can go now. It's over, you won. Just go through the door."
+
+==============================================================================
+#### Triggers ####
+
+Stats
+
+Current fails: #
+
+n/a
+
+To get back:
+
+You are now spectating the game.
+
+You are no longer spectating the game.
+
+Spectator mode is currently disabled.
+
+Skipping Stones changed to version #
+
+Classic
+
+New
 
 ==============================================================================
