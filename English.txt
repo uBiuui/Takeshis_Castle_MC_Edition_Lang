@@ -45,7 +45,7 @@ stage:
 
 ==============================================================================
 #### In-game ####
-The Great Wall, The First Fortress, Knock Knock, Rope Swing, Skipping Stones, The Devil's Domain, 
+Headquarters, The Great Wall, The First Fortress, Knock Knock, Rope Swing, Skipping Stones, The Devil's Domain, 
 The Second Fortress, Strait of Gibraltar, Man-Eating Hole, Showdown
 
 Takeshi's Castle Datapack reloaded.
@@ -188,5 +188,35 @@ Skipping Stones changed to version #
 Classic
 
 New
+
+Takeshi's Castle Admin Panel
+
+Total player count: #
+
+Quick travel
+
+Teleport to Headquarters
+
+Stages
+
+Teleport to stages
+
+Ending
+
+Teleport to ending
+
+Skipping Stones stage version: #
+
+Change
+
+Change version
+
+Default: #
+
+Show fail messages?
+
+Always
+
+Always show them
 
 ==============================================================================
