@@ -205,6 +205,12 @@ Ending
 
 Teleport to ending
 
+Checkpoints enabled?
+
+Checkpoints enabled
+
+Checkpoints disabled
+
 Skipping Stones stage version: #
 
 Change
