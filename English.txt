@@ -148,6 +148,8 @@ Takeshi: "Because you used checkpoints, I can only award you with a golden medal
 
 Takeshi: "At least it's real gold! I think..."
 
+Takeshi: "I'm sure this is real gold, just look how shiny it is!"
+
 Takeshi: "Also, here, have this gold trophy. You've earned it!"
 
 Takeshi: "Also, here, have a replica of my head. You've definitely earned it!"
@@ -157,7 +159,10 @@ Golden medallion
 "You won!"
 - Takeshi
 
-Shiny golden medallion
+Golden medallion (*Shiny*)
+
+"Zero fails?!"
+- Takeshi
 
 Takeshi's Castle Trophy
 
