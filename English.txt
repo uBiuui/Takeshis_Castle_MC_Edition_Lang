@@ -144,9 +144,20 @@ Takeshi: "Here is your prize, 1,000,000円!"
 
 Takeshi: "Here is your prize, 25,000,000円!"
 
+Takeshi: "Because you used checkpoints, I can only award you with a golden medallion!"
+
+Takeshi: "At least it's real gold! I think..."
+
 Takeshi: "Also, here, have this gold trophy. You've earned it!"
 
 Takeshi: "Also, here, have a replica of my head. You've definitely earned it!"
+
+Golden medallion
+
+"You won!"
+- Takeshi
+
+Shiny golden medallion
 
 Takeshi's Castle Trophy
 
