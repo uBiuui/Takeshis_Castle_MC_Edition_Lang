@@ -233,13 +233,17 @@ Checkpoints enabled.
 
 Checkpoints disabled.
 
+Default
+
 Skipping Stones stage version: #
 
-Change
+v1
 
-Change version
+v2
 
-Default: #
+Change to version 1
+
+Change to version 2
 
 Show fail messages?
 
