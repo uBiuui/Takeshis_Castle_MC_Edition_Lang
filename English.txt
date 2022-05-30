@@ -201,7 +201,7 @@ You are no longer spectating the game.
 
 Spectator mode is currently disabled.
 
-Skipping Stones changed to version #
+{stage_name} changed to version #
 
 Classic
 
@@ -235,7 +235,7 @@ Checkpoints disabled.
 
 Default
 
-Skipping Stones stage version: #
+{stage_name} stage version: #
 
 v1
 
