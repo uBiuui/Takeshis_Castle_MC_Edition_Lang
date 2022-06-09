@@ -247,6 +247,8 @@ Change to version 2
 
 Show fail messages?
 
+Fail messages will display:
+
 Always
 
 Always show them
@@ -268,5 +270,9 @@ Allow spectators
 No
 
 Don't allow spectators
+
+Spectating is now allowed.
+
+Spectating is now disabled.
 
 ==============================================================================
