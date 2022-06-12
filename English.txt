@@ -103,6 +103,8 @@ Commander: "The rest of the enemy soldiers have retreated!"
 Commander: "You lost. That's okay, you tried your best."
 "Keep trying!"
 
+Commander: "Keep trying, he must be defeated!"
+
 Commander: "We have taken the Castle! Quickly, go inside to finish our mission!"
 
 Takeshi's Castle has been defeated!
